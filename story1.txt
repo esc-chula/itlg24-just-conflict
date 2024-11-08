@@ -3,3 +3,8 @@ This is neen, tungmay, pang pang
 Neen say : HIHI
 
 From Beam <3
+<<<<<<< HEAD
+
+Pang aeng jaa
+=======
+>>>>>>> main
